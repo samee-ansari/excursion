@@ -1,3 +1,0 @@
-# excursion
-
-EXCURSION WEBSITE
