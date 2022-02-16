@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
 
-h6{
+h6.link{
     color: aquamarine;
     font-size: 16px;
 }
@@ -21,6 +21,11 @@ h4{
     font-weight: 300;
     font-size: 42px;
     color:white;
+}
+
+#copy{
+    color:gray;
+    text-align: right;
 }
 
 .first{
